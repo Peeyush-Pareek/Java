@@ -12,3 +12,5 @@
 12) Write Java code to implement HashMap
 13) Write Java code to implement Circular LinkedList
 14) Write a Java program to construct a Binary Search Tree and perform deletion and In-order traversal.
+15) Write a Java Program to calculate the Difference between the Sum of the Odd Level and the Even Level Nodes of a Binary Tree.
+16) Write a Java program to convert a given binary tree to doubly linked list.
