@@ -17,4 +17,4 @@
 17) Write a Java Program to Print Spiral Pattern.
 18) How to reserve a string in Java without using reverse function.
 19) How to Reverse a String in Java Word by Word.
-20) 
+20) How to Temporarily Stop a Thread in Java?
