@@ -16,3 +16,5 @@
 16) Write a Java program to convert a given binary tree to doubly linked list.
 17) Write a Java Program to Print Spiral Pattern.
 18) How to reserve a string in Java without using reverse function.
+19) How to Reverse a String in Java Word by Word.
+20) 
